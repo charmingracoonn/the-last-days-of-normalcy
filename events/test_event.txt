@@ -1,0 +1,9 @@
+add_namespace = thelastdaysofnormalcy
+news_event = {
+	id = thelastdaysofnormalcy.1
+	title = thelastdaysofnormalcy.1.t
+	desc=thelastdaysofnormalcy.1.d
+	picture = GFX_report_event_generic
+	option = { 	name = thelastdaysofnormalcy.1.a
+			add_political_power = 50 }
+}
